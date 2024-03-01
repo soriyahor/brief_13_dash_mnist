@@ -1,3 +1,4 @@
 # fichiers ignorés
 __pycache__/
 *.png
+/data
