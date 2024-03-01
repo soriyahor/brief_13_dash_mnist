@@ -10,3 +10,4 @@ Permet d'entrainer un modèle sur la reconnaissance de lettre
 
 ## Notebook reconnaisance
 
+Traitement d'image webcam ou drawing permettant de reconnaitre le chiffre par prediction
